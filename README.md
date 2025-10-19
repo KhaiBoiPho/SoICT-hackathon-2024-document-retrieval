@@ -22,7 +22,7 @@ User Query → Word Segmentation (Pyvi) → Bi-Encoder (Retrieval)
 ```
 
 **Architecture Diagram:**
-![System Architecture](https://github.com/<your-repo>/assets/architecture-diagram.png)
+![System Architecture](hero-8aa6c59a0aab89952c695cd2128d2517.png)
 
 ---
 
