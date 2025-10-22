@@ -103,7 +103,7 @@ All text data was preprocessed using Pyvi for Vietnamese tokenization prior to t
 ### Installation
 
 ```bash
-git clone https://github.com/<your-repo>/SoICT-hackathon-2024-document-retrieval.git
+git clone https://github.com/KhaiBoiPho/SoICT-hackathon-2024-document-retrieval.git
 cd SoICT-hackathon-2024-document-retrieval
 ```
 ---
